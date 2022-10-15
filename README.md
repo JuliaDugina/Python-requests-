@@ -1,2 +1,2 @@
-# Python-requests-
-Python task (requests)
+# Python requests habr.com
+Extract title and heading of Python news from Habr.com 
